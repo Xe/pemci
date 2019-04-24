@@ -1,11 +1,11 @@
 [package]
 name = "within/pemci"
-version = "0.0.1"
+version = "0.0.2"
 description = "Prints a random poem from the Wingmakers"
+license = "MIT"
 readme = "README.md"
 repository = "https://github.com/Xe/pemci"
 homepage = "https://github.com/Xe/pemci"
-license = "MIT"
 
 [[module]]
 name = "pemci"
